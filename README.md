@@ -1,1 +1,1 @@
-# cats_v_dogs_classification
+# cats_vs_dogs_classification
